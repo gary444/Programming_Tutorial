@@ -52,7 +52,7 @@ public class Circle {
 	
 	private static void calculateDiameter(double circumference){
 		
-		System.out.println("Diameter = " + circumference + " / PI = " + (circumference / Math.PI));
+		System.out.println("Diameter" + circumference + " / PI = " + (circumference / Math.PI));
 		
 	}
 	

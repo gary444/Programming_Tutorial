@@ -27,6 +27,8 @@ public class Circle {
 			calculateArea(getDiameter());
 		}
 		
+		
+		
 	}
 	
 	private static double getDiameter(){
@@ -52,7 +54,7 @@ public class Circle {
 	
 	private static void calculateDiameter(double circumference){
 		
-		System.out.println("Diameter = " + circumference + " / PI = " + (circumference / Math.PI));
+		System.out.println("C" + circumference + " / PI = " + (circumference / Math.PI));
 		
 	}
 	
@@ -63,7 +65,7 @@ public class Circle {
 	
 	private static void calculateCircumference(double diameter){
 		
-		System.out.println("Circumference = PI * " + diameter + " = " + (Math.PI * diameter));
+		
 	}
 }
 
