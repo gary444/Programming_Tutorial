@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Databases/Databases.iml" filepath="$PROJECT_DIR$/Databases/Databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumExample/EnumExample.iml" filepath="$PROJECT_DIR$/EnumExample/EnumExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnumExercise/EnumExercise.iml" filepath="$PROJECT_DIR$/EnumExercise/EnumExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/InputOutput/InputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListsAndArrays/ListsAndArrays.iml" filepath="$PROJECT_DIR$/ListsAndArrays/ListsAndArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structures/Structures.iml" filepath="$PROJECT_DIR$/Structures/Structures.iml" />
+    </modules>
+  </component>
+</project>
